@@ -1,0 +1,75 @@
+# Pull Request — [Título da PR]
+
+## 📋 Descrição
+
+<!-- Explique de forma objetiva o que foi alterado e por quê. -->
+
+### O que foi feito?
+
+* [ ] [Alteração 1]
+* [ ] [Alteração 2]
+* [ ] [Alteração 3]
+
+### Por que foi feito?
+
+<!-- Contextualize o problema ou necessidade que motivou esta alteração. -->
+
+## 🔗 Issue / Card
+
+<!-- Relacione a issue, ticket ou card correspondente. -->
+
+Closes #[número-da-issue]
+
+## 🧪 Testes realizados
+
+* [ ] Testes unitários
+* [ ] Testes de integração
+* [ ] Testes manuais
+* [ ] Testes de regressão
+
+### Cenários testados
+
+1. **[Cenário]**
+
+   * Resultado esperado: [resultado]
+   * Resultado obtido: [resultado]
+
+2. **[Cenário]**
+
+   * Resultado esperado: [resultado]
+   * Resultado obtido: [resultado]
+
+## 📸 Evidências
+
+<!-- Adicione prints, vídeos, logs ou outras evidências quando necessário. -->
+
+## ⚠️ Pontos de atenção
+
+<!-- Informe possíveis impactos, riscos, breaking changes ou configurações necessárias. -->
+
+* [Ponto de atenção 1]
+* [Ponto de atenção 2]
+
+## 🚀 Deploy
+
+* [ ] Não requer alteração de configuração
+* [ ] Requer alteração de configuração
+* [ ] Requer migration
+* [ ] Requer alteração de variável de ambiente
+* [ ] Requer atualização de documentação
+
+## ✅ Checklist
+
+* [ ] Código revisado e organizado
+* [ ] Testes adicionados/atualizados
+* [ ] Testes executados com sucesso
+* [ ] Documentação atualizada, se necessário
+* [ ] Sem credenciais ou informações sensíveis
+* [ ] Sem alterações desnecessárias
+* [ ] PR pronta para revisão
+
+## 👀 Revisores
+
+<!-- Marque os responsáveis pela revisão. -->
+
+@revisor1 @revisor2
